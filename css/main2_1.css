@@ -1,0 +1,41 @@
+h1 {
+    background: #892727;
+    color: antiquewhite;
+    text-align: -webkit-right;
+/*    Як текст поставити текст трохи відсунувшись справа? Бо в мене виходить з самого кінця справа, впритик до краю. */
+}
+
+.num1 {
+    padding: 50px;
+    box-sizing: border-box;
+    background: silver;
+    text-align: justify;
+    font-size: 20pt;
+}
+
+.num2 {
+    padding: 60px;
+    text-align: justify;
+    box-sizing: border-box;
+    background: #248ae0;
+    font-size: 20pt;
+}
+
+.num3{
+    height: 300px;
+    width: 300px;
+    background: #6bc96b;
+}
+
+.num4{
+    height: 300px;
+    width: 300px;
+    background: #c6a2e0;
+    border-radius: 9%;
+}
+
+hr {
+    background-color: #090909;
+    color: #000000;
+    height: 5px;
+}
