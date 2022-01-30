@@ -1,0 +1,75 @@
+.shadows{
+    background: #ded9d9;
+/*Як ті букви опустити на центр? text-align:  center; - не допомагає*/
+}
+
+.shadows1{
+    display: flex;
+    padding: 70px;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.shadows2{
+    display: flex;
+    padding: 70px;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+.A1{
+    /*чітка тінь з гострими кутиками*/
+    width: 300px;
+    height: 300px;
+    background: yellow;
+    box-shadow: #3d3b3b 23px 23px 4px;
+
+}
+.B1{
+    /*не дуже чітка темна тінь з гострими кутиками*/
+    width: 300px;
+    height: 300px;
+    background: yellow;
+    box-shadow: #3d3b3b 23px 23px 7px;
+}
+
+.C1{
+    /*велика чорна тінь з гострими кутиками але трохи розмита*/
+    width: 300px;
+    height: 300px;
+    background: yellow;
+    box-shadow: #3d3b3b 23px 25px 10px;
+}
+
+.D1{
+    /*напевно тут трошки є заокруглені кутики та сіра велика тінь*/
+    width: 300px;
+    height: 300px;
+    background: yellow;
+    border-radius: 1%;
+    box-shadow: #b0abab 23px 25px 6px;
+}
+
+.E1{
+    /*заокруглені кутики та темна тінь*/
+    width: 300px;
+    height: 300px;
+    background: yellow;
+    border-radius: 7%;
+    box-shadow: #3d3b3b 23px 25px 7px;
+}
+
+.F1{
+    /*заокруглені кутики та світла тінь*/
+    width: 300px;
+    height: 300px;
+    background: yellow;
+    border-radius: 7%;
+    box-shadow: #b0abab 23px 25px 10px;
+}
