@@ -1,0 +1,48 @@
+.container {
+
+    box-sizing: border-box;
+    overflow: hidden;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 900;
+    color: #090f36;
+}
+
+
+.target {
+    border: 10px solid #ffffff;
+    background: #b9b711;
+    height: 200px;
+
+}
+
+.wrap {
+    display: flex;
+}
+
+.target1 {
+    border: 10px solid #ffffff;
+    background: #2e40a8;
+    width: 600px;
+    height: 750px;
+}
+
+.target2 {
+    border: 10px solid #ffffff;
+    background: #2e40a8;
+    width: 600px;
+    height: 750px;
+}
+
+.target3 {
+    border: 10px solid #ffffff;
+    background: #2e40a8;
+    width: 600px;
+    height: 750px;
+}
+
+.target4 {
+    border: 10px solid #ffffff;
+    background: aquamarine;
+    height: 500px;
+}

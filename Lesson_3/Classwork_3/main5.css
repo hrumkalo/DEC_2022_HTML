@@ -1,0 +1,46 @@
+.container {
+    box-sizing: border-box;
+    overflow: hidden;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 900;
+}
+
+.wrap {
+    display: flex;
+}
+
+
+.target {
+    border: 10px solid #ffffff;
+    background: #2e40a8;
+    width: 900px;
+    height: 750px;
+}
+
+.target1 {
+    border: 10px solid #ffffff;
+    background: #2e40a8;
+    width: 900px;
+    height: 750px;
+}
+
+
+.target2 {
+    border: 10px solid #ffffff;
+    background: #858484;
+    height: 200px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.target3 {
+    border: 10px solid #ffffff;
+    background: rgba(22, 225, 232, 0.64);
+    height: 750px;
+    width: 700px;
+}

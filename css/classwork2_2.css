@@ -1,0 +1,71 @@
+body {
+    background: black;
+}
+.color{
+    margin-left: 900px;
+}
+
+.orange {
+    width: 100px;
+    height: 30px;
+    border: 3px solid rgba(255, 165, 0, 0.93);
+    color: rgba(255, 165, 0, 0.93);
+    border-radius: 20px;
+    margin-top: 300px;
+    margin-bottom: 10px;
+
+    /*(текст посередині)*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15pt;
+
+
+
+
+}
+
+.blue {
+    width: 100px;
+    height: 30px;
+    border: 3px solid rgba(36, 138, 224, 0.79);
+    color: rgba(36, 138, 224, 0.79);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15pt;
+    margin-bottom: 10px;
+
+}
+
+.pink {
+    width: 100px;
+    height: 30px;
+    border: 3px solid rgba(224, 36, 215, 0.9);
+    color: rgba(224, 36, 215, 0.9);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15pt;
+
+    margin-bottom: 10px;
+
+
+}
+
+.red {
+
+    width: 100px;
+    height: 30px;
+    border: 3px solid rgba(201, 21, 21, 0.94);
+    color: rgba(201, 21, 21, 0.94);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15pt;
+
+    margin-bottom: 10px;
+}
