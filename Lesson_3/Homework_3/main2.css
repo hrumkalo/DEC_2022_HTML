@@ -13,11 +13,17 @@
 .target1 {
     background: #2e40a8;
     height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .target2 {
     background: #090f36;
     height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .target3 {
@@ -25,14 +31,23 @@
     float: left;
     height: 550px;
     width: 1600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .target4 {
     background: #b690d3;
     height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .target5 {
     background: #36776d;
     height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
