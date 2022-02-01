@@ -37,7 +37,6 @@ body{
     left: 66px;
 }
 
-
 .boxII{
     height: 220px;
     width: 620px;
@@ -47,13 +46,14 @@ body{
     text-align: center;
     padding-top: 30px;
 }
+
 .boxII > p {
     box-sizing: border-box;
     padding-left: 200px;
     padding-right: 30px;
     text-align: justify;
-
 }
+
 .boxII > i {
     font-size: 100px;
     display: flex;
@@ -62,5 +62,4 @@ body{
     position: relative;
     top: -107px;
     left: 66px;
-
 }
