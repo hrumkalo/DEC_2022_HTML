@@ -1,0 +1,42 @@
+
+.spA{
+    height: 300px;
+    background: #b0abab;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.together{
+    display: flex;
+}
+
+.BCD1{
+    display: flex;
+}
+
+.CDE{
+    height: 300px;
+    width: 450px;
+    margin: 10px;
+    background: #b0abab;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.EFG1 {
+    display: flex;
+}
+
+.spH{
+    height: 620px;
+    width: 450px;
+    margin: 10px;
+    background: #b0abab;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
